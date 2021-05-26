@@ -1,0 +1,48 @@
+{
+  "name": [
+    {
+      "id": 1,
+      "fname": "puvi",
+      "lname": "arasan"
+    },
+    {
+      "id": 2,
+      "fname": "pugazh",
+      "lname": "arasan"
+    },
+    {
+      "id": 4,
+      "fname": "kali",
+      "lname": "das"
+    },
+    {
+      "id": 3,
+      "fname": "kamal",
+      "lname": "hasan"
+    },
+    {
+      "id": "7",
+      "fname": "nithin",
+      "lname": "sai"
+    },
+    {
+      "id": "11",
+      "fname": "anitha",
+      "lname": "aa"
+    },
+    {
+      "id": 88,
+      "fname": "raj",
+      "lname": "bhavan"
+    }
+  ],
+  "address": [
+    {
+      "id": 1,
+      "street": "Bharathiar St",
+      "Building": "Sai Arun Nivas",
+      "locality": "valasavarakkam",
+      "nameId": 1
+    }
+  ]
+}

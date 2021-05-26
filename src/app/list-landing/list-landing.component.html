@@ -1,0 +1,23 @@
+<h1>Puvi is awesome!</h1>
+<h3 *ngFor="let l of list">
+  First Name: {{l.fname}}
+<p >Last Name: {{l.lname}}</p>
+</h3>
+
+<div>
+
+  <div *ngIf="msg">Added Successfully!</div>
+<div class="form-group">
+  <!-- <form #addNe="ngForm" (submit)="addNewName(addNe)">
+    <input type="text" class="form-control" name="id" required ngModel />id
+    <input type="text" class="form-control" name="fname" required ngModel />fname
+    <input type="text" class="form-control" name="lname"  ngModel />lname
+    <button class="form-control" [disabled]="!addNe.valid">Submit</button>
+  </form> -->
+  <!-- <button class="form-control" [disabled]="!addNe.valid">Submit</button>
+   -->
+<button (click)="addNewName()">add raj ba</button>
+</div>
+
+
+</div>
